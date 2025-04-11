@@ -1,2 +1,2 @@
 # seek-world
-to practisse
+to practise
